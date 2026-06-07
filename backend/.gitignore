@@ -1,0 +1,46 @@
+# Maven
+target/
+
+# Logs
+*.log
+logs/
+
+# Spring Boot
+*.jar
+*.war
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# STS
+.springBeans
+.sts4-cache/
+
+# NetBeans
+nbproject/private/
+build/
+
+# Uploads & Media
+backend/uploads/
+uploads/
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Environment
+.env
+.env.*
+application-local.properties
+application-dev.properties
+
+# OS Files
+.DS_Store
+Thumbs.db
